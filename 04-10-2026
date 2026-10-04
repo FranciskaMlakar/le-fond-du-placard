@@ -1,0 +1,8 @@
+cd "/Users/anouksajot/Library/Application Support/Claude/local-agent-mode-sessions/e0f0d913-0aeb-4aff-8412-e68f0a69201a/4975e0db-c0ea-4b6f-81ce-2f5b7d6c22ce/3ecab225/outputs"
+
+git init
+git add recettes.html
+git commit -m "Le Fond du Placard - première version"
+git branch -M main
+git remote add origin https://github.com/TON_PSEUDO/le-fond-du-placard.git
+git push -u origin main
